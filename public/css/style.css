@@ -1,0 +1,10 @@
+/**Style custom**/
+#footer{
+	margin-top: 30px;
+	padding: 10px;
+	color:#fff;
+	background:#127ba3;
+}
+#footer p{
+	margin-bottom: 0px;
+}
